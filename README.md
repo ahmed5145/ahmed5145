@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Machine Learning, React, Maths... or anything [here](https://github.com/ahmed5145/ahmed5145/issues)**
 
 ⚡ Fun fact **I can solve a Rubik's cube under 30 seconds!**
 
