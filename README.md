@@ -32,16 +32,17 @@
 </div>
 
  <hr/>
- 
+<!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,react,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,java,C,C++,javascript,typescript,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-
+--
 <br/>
 <hr/>
+
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
