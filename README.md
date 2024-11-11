@@ -89,6 +89,73 @@ me.say_hi()
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-288-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 421.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                38 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌃 Evening                68 commits          ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌙 Night                  75 commits          ████████░░░░░░░░░░░░░░░░░   32.89 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   61 commits          ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Tuesday                  55 commits          ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ███████████████░░░░░░░░░░   60.71 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+
+ Last Updated on 11/11/2024 11:17:20 UTC
 <!--END_SECTION:waka-->
 
 <h2>🤝 Connect With Me</h2>
