@@ -17,20 +17,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Set up Platane SNK tool
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
-
-    - name: Install Platane SNK
-      run: |
-        npm install -g platane-snk
-
-    # Generate the Snake SVG
+    # Generate Snake SVG from Platane
     - name: Generate Snake SVG
       run: |
-        snk --github-user ahmed5145 --output dist/snake.svg
+        curl -s https://raw.githubusercontent.com/Platane/snk/master/demo/github-contribution-grid-snake.svg > dist/snake.svg
+        sed -i 's/{username}/ahmed5145/' dist/snake.svg
 
     # Commit and push the generated Snake SVG
     - name: Commit and Push Snake SVG
