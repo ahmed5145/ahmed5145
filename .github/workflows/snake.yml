@@ -2,10 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  
-  # Allows manual workflow trigger
   workflow_dispatch:
 
 permissions:
@@ -18,18 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ahmed5145
-          # Adding both light and dark mode outputs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-          
-          # Use GitHub token to include private contributions
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          use_private_contributions: true    # This enables private contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}    # Use your PAT instead of default token
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
