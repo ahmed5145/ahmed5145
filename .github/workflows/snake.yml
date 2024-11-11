@@ -33,8 +33,8 @@ jobs:
         run: |
           mkdir -p dist
           mv dist/snake.svg dist/
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "ahmed5145"
+          git config --local user.email "ahmedmohamed200354@gmail.com"
           git add dist/snake.svg
           git commit -m "chore: update snake contribution graph" || echo "No changes to commit"
           git push
