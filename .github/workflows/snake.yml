@@ -30,8 +30,8 @@ jobs:
     - name: Commit and Push Snake SVG
       run: |
         git config --global user.name "GitHub Actions"
-        git config --global user.email "ahmedmohamed200354@gmail.com"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add dist/github-snake.svg
         git add dist/github-snake-dark.svg
         git commit -m "Add snake eating contributions"
-        git push
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ahmed5145/ahmed5145.git
