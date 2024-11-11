@@ -13,7 +13,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Generate the Snake SVG
+      # Clear existing SVG in dist/
+      - name: Clear existing SVG in dist/
+        run: rm -f dist/snake.svg
+
+      # Generate Snake SVG
       - name: Generate Snake SVG
         uses: Platane/snk@v2
         with:
@@ -23,8 +27,8 @@ jobs:
       # Commit and Push the SVG
       - name: Commit and Push Snake SVG
         run: |
-          git config --global user.name "ahmed5145"
-          git config --global user.email "ahmedmohamed200354@gmail.com"
+          git config --global user.name "ahmed5145"  # Your GitHub username
+          git config --global user.email "ahmedmohamed200354@gmail.com"  # Your GitHub email
           git add dist/snake.svg
           git commit -m "Add updated snake SVG"
           git push
