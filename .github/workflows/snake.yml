@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs at 12am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository to access GitHub contributions
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - name: Generate Snake SVG
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ahmed5145
+          outputs: dist/snake.svg
+
+      # Upload the generated snake.svg to the repository
+      - name: Commit and Push
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "chore: update snake contribution graph" || echo "No changes to commit"
+          git push
