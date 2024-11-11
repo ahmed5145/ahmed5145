@@ -1,38 +1,42 @@
-name: Generate and Push Snake SVG
+name: Generate Snake Eating My Contributions
 
 on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  generate-snake-svg:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      # Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+    # Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      # Clear existing SVG in dist/
-      - name: Clear existing SVG in dist/
-        run: rm -f dist/snake.svg
+    # Set up Platane SNK tool
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
 
-      # Debug GitHub username (this will print the username)
-      - name: Debug GitHub Username
-        run: echo "GitHub username: ${{ github.actor }}"
+    - name: Install Platane SNK
+      run: |
+        npm install -g platane-snk
 
-      # Generate Snake SVG
-      - name: Generate Snake SVG
-        uses: Platane/snk@v2
-        with:
-          github_user_name: ahmed5145  # Your GitHub username
-          outputs: dist/snake.svg  # Path to save the generated SVG
+    # Generate the Snake SVG
+    - name: Generate Snake SVG
+      run: |
+        snk --github-user ahmed5145 --output dist/snake.svg
 
-      # Commit and Push the SVG
-      - name: Commit and Push Snake SVG
-        run: |
-          git config --global user.name "ahmed5145"  # Your GitHub username
-          git config --global user.email "ahmedmohamed200354@gmail.com"  # Your GitHub email
-          git add dist/snake.svg
-          git commit -m "Add updated snake SVG"
-          git push
+    # Commit and push the generated Snake SVG
+    - name: Commit and Push Snake SVG
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "ahmedmohamed200354@gmail.com"
+        git add dist/snake.svg
+        git commit -m "Add updated snake SVG"
+        git push
