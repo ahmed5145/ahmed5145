@@ -17,6 +17,10 @@ jobs:
       - name: Clear existing SVG in dist/
         run: rm -f dist/snake.svg
 
+      # Debug GitHub username (this will print the username)
+      - name: Debug GitHub Username
+        run: echo "GitHub username: ${{ github.actor }}"
+
       # Generate Snake SVG
       - name: Generate Snake SVG
         uses: Platane/snk@v2
