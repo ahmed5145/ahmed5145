@@ -23,7 +23,7 @@ class SoftwareEngineer:
         self.location = "🇺🇸 USA"
         self.languages = ["Python", "JavaScript", "TypeScript", "Java"]
         self.interests = ["Machine Learning", "Deep Learning", "Cloud Computing"]
-        self.hobbies = ["Solving Rubik's cube (sub-30s)", "Problem Solving", "Learning New Tech"]
+        self.hobbies = ["Playing Chess (1800 Chess.com elo), Solving Rubik's cube (sub-30s)", "Problem Solving", "Learning New Tech"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
