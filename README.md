@@ -89,17 +89,15 @@ me.say_hi()
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-349-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 422.4 kB Used in GitHub's Storage 
- > 
-> 🏆 251 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -134,17 +132,17 @@ Sunday                   6 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 48 mins       █████████████░░░░░░░░░░░░   52.31 % 
-HTML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Java                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-TypeScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   3 hrs 25 mins       ███████████████░░░░░░░░░░   58.84 % 
+HTML                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+TypeScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2024 18:44:48 UTC
+ Last Updated on 25/11/2024 18:47:59 UTC
 <!--END_SECTION:waka-->
 
 <h2>🤝 Connect With Me</h2>
