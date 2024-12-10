@@ -65,6 +65,7 @@ me.say_hi()
 
 <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmed5145&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed5145&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed5145&theme=tokyonight" />
 </div>
 
