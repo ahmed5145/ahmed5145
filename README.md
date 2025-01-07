@@ -23,7 +23,7 @@ class SoftwareEngineer:
         self.location = "🇺🇸 USA"
         self.languages = ["Python", "JavaScript", "TypeScript", "Java"]
         self.interests = ["Machine Learning", "Deep Learning", "Cloud Computing"]
-        self.hobbies = ["Playing Chess (1800 Chess.com), Solving Rubik's cube (sub-30s)", "Problem Solving", "Learning New Tech"]
+        self.hobbies = ["Playing Chess (1900 Chess.com), Solving Rubik's cube (sub-30s)", "Problem Solving", "Learning New Tech"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
@@ -66,9 +66,6 @@ me.say_hi()
 <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmed5145&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed5145&theme=tokyonight" />
-</div>
-
-<div align="center">
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed5145&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
 </div>
 
