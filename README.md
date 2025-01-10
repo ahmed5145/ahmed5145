@@ -1,5 +1,5 @@
 <div align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed5145.ahmed5145" alt="visitors" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed5145.ahmed5145&title=Visitors" alt="visitors" />
 </div>
 
 <div align="center">
@@ -88,7 +88,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ahmed5145.ahmed5145&title=Profile%20Views)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
