@@ -64,10 +64,8 @@ me.say_hi()
 <h2>📈 GitHub Analytics</h2>
 
 <div align="center">
-    <div style="display: flex; justify-content: center; gap: 2%;">
-        <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmed5145&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-        <img height="200" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=tokyonight" />
-    </div>
+    <img width="49%" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmed5145&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img width="49%" height="180" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=tokyonight" />
     <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmed5145&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
 </div>
 
