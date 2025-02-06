@@ -86,7 +86,7 @@ me.say_hi()
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -96,13 +96,11 @@ me.say_hi()
 
 > 📦 429.8 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -131,14 +129,14 @@ Sunday                   78 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   15 hrs 7 mins       ████████████░░░░░░░░░░░░░   47.38 % 
-JavaScript               8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-YAML                     2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Bash                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Docker                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Python                   12 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.75 % 
+JavaScript               8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+YAML                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Docker                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Windows                  31 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +152,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 18:45:20 UTC
+ Last Updated on 06/02/2025 18:45:48 UTC
 <!--END_SECTION:waka-->
 
 <h2>🤝 Connect With Me</h2>
