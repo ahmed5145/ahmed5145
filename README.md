@@ -86,7 +86,7 @@ me.say_hi()
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,6 +95,8 @@ me.say_hi()
 **🐱 My GitHub Data** 
 
 > 📦 434.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 96 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,14 +131,14 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   21 hrs 1 min        ██████████████░░░░░░░░░░░   55.19 % 
-JavaScript               6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Text                     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-TypeScript               4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Python                   22 hrs 40 mins      ███████████████░░░░░░░░░░   59.90 % 
+JavaScript               4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+TypeScript               4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Text                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-Windows                  38 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  37 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +154,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 18:47:23 UTC
+ Last Updated on 25/02/2025 18:47:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>🤝 Connect With Me</h2>
