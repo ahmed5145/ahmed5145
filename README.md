@@ -34,10 +34,10 @@ me.say_hi()
 
 <h2>🚀 What I'm Up To</h2>
 
-- 🔭 Currently working on **An Online Learning Platform AImpulse**
-- 🌱 Learning **Advanced Machine Learning** and **AWS Cloud Architecture**
+- 🔭 Currently working on **ChessMate -- AI-Powered Chess Analysis & Feedback**
+- 🌱 Learning **AWS Cloud Architecture** and **Async Processing**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Machine Learning, React, System Design**
+- 💬 Ask me about **Machine Learning, React, System Design, Python, AWS**
 - 📫 Reach me at: **ahmedmohamed200354@gmail.com**
 
 <h2>🛠️ Technology Stack</h2>
