@@ -34,7 +34,7 @@ me.say_hi()
 
 <h2>🚀 What I'm Up To</h2>
 
-- 🔭 Currently working on **ChessMate -- AI-Powered Chess Analysis & Feedback**
+- 🔭 Currently working on **ChessMate -- AI-Powered Chess Analysis & Feedback** -- repo isn't fully public
 - 🌱 Learning **AWS Cloud Architecture** and **Async Processing**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Machine Learning, React, System Design, Python, AWS**
