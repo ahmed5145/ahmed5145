@@ -6,11 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;Welcome+to+my+Profile!" />
 </div>
 
-<h3 align="center">AI/ML Software Engineer | Problem Solver | Continuous Learner</h3>
+<h3 align="center">Software Engineer · Full Stack & Backend · AI/ML</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Location-USA-blue?style=for-the-badge&logo=google-maps" />
     <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen?style=for-the-badge&logo=opencollective" />
+    <img src="https://img.shields.io/badge/CS+%26+Math-Student-9cf?style=for-the-badge&logo=gradio" />
 </div>
 
 <h2>👨‍💻 About Me</h2>
@@ -19,26 +20,69 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Ahmed Mohamed"
-        self.role = "AI/ML Software Engineer"
+        self.role = "Software Engineer (Full Stack, Backend, AI/ML)"
         self.location = "🇺🇸 USA"
-        self.languages = ["Python", "JavaScript", "TypeScript", "Java"]
-        self.interests = ["Machine Learning", "Deep Learning", "Cloud Computing"]
-        self.hobbies = ["Playing Chess (1900 Chess.com), Solving Rubik's cube (sub-30s)", "Problem Solving", "Learning New Tech"]
-    
+        self.languages = ["Python", "TypeScript", "JavaScript", "Java"]
+        self.interests = ["System Design", "Machine Learning", "Cloud & DevOps"]
+        self.hobbies = ["Chess (1900 Chess.com)", "Rubik's cube (sub-30s)", "Building side projects"]
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+        print("Thanks for stopping by — happy to connect on SWE, intern, or new-grad opportunities!")
 
 me = SoftwareEngineer()
 me.say_hi()
 ```
 
+<h2>⭐ Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ChessMate](https://github.com/ahmed5145/ChessMate)
+AI-powered chess analysis platform that ingests games from Chess.com and Lichess, runs Stockfish-backed analysis, and surfaces personalized improvement insights.
+
+**Stack:** React · Django · Python · Stockfish
+
+</td>
+<td width="50%" valign="top">
+
+### [CampusFound](https://github.com/ahmed5145/CampusFound)
+Mobile-first campus lost-and-found board with photo uploads, building/location filters, and Supabase-backed persistence.
+
+**Stack:** Next.js · TypeScript · Supabase  
+**Live:** [campus-found-kappa.vercel.app](https://campus-found-kappa.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ReturnRider](https://github.com/ahmed5145/ReturnRider)
+Automated return & refund tracker — production-minded monorepo with NestJS API, Expo mobile app, Go email worker, and Terraform staging infra.
+
+**Stack:** NestJS · Expo · PostgreSQL · Redis · BullMQ · Go
+
+</td>
+<td width="50%" valign="top">
+
+### [retro_game_engine](https://github.com/ahmed5145/retro_game_engine)
+Open-source Python framework for authentic 8-bit / 16-bit games — ECS architecture, CI on PyPI, docs, and example games.
+
+**Stack:** Python · Pygame · Poetry · pytest
+
+</td>
+</tr>
+</table>
+
 <h2>🚀 What I'm Up To</h2>
 
-- 🔭 Currently working on **ChessMate -- AI-Powered Chess Analysis & Feedback** -- repo isn't fully public
-- 🌱 Learning **AWS Cloud Architecture** and **Async Processing**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Machine Learning, React, System Design, Python, AWS**
-- 📫 Reach me at: **ahmedmohamed200354@gmail.com**
+- 🔭 Building **ChessMate** — AI chess analysis & personalized feedback
+- 🏫 Shipping campus products: **CampusFound**, **QuadPulse**, **ReturnRider**
+- 🌱 Deepening **AWS**, **async systems**, and **production backend** patterns
+- 👯 Open to **SWE / full-stack / backend / AI** roles — intern, new grad, and early career
+- 💬 Ask me about **Python, React, system design, chess engines, or cloud architecture**
+- 📫 **ahmedmohamed200354@gmail.com** · [Portfolio](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh)
 
 <h2>🛠️ Technology Stack</h2>
 
@@ -52,12 +96,12 @@ me.say_hi()
 
 **Development & Tools**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,mongodb,mysql,redis&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,mongodb,postgres,redis&perline=4" />
 </div>
 
 **Currently Learning**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,go,graphql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=go,graphql,rust&perline=3" />
 </div>
 </details>
 
@@ -86,75 +130,6 @@ me.say_hi()
 <h2>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2037%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 509.2 kB Used in GitHub's Storage 
- > 
-> 🏆 286 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1191 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌆 Daytime                362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-🌃 Evening                670 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-🌙 Night                  813 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Tuesday                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Wednesday                61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Thursday                 137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Friday                   921 commits         ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Saturday                 838 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Sunday                   628 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-Python                   10 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.60 % 
-Markdown                 8 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-INI                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-
-💻 Operating System: 
-Windows                  25 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   24 repos            ████████████████░░░░░░░░░   63.16 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-```
-
-
-
-
- Last Updated on 07/04/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
 
 <h2>🤝 Connect With Me</h2>
