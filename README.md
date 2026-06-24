@@ -1,53 +1,93 @@
-<div align="center">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ahmed5145&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<img src="https://avatars.githubusercontent.com/u/68402624?v=4" width="120" style="border-radius: 50%;" alt="Ahmed Mohamed" />
-
-# Ahmed Mohamed
-
-### CS, Math & Data Science student | Software Engineer
-
-Building full stack apps, backend systems, and AI/ML projects. Open to SWE, backend, data, and new grad opportunities.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=170&section=header&text=Ahmed%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20%C2%B7%20Math%20%C2%B7%20Data%20Science%20%C2%B7%20Software%20Engineer&descSize=18&descAlignY=58&descAlign=50" alt="Header banner" />
 
 <br />
 
-<a href="mailto:ahmedmohamed200354@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ahmedmohamed200354@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/ahmedmohamedh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&lines=Hey!+I'm+Ahmed+%F0%9F%91%8B;I+build+full-stack+apps+%2B+AI+systems;2150+chess+%7C+sub-30+Rubik's+cube;Open+to+SWE%2C+backend+%26+new-grad+roles" alt="Typing animation" />
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="42%" align="center" valign="top">
+
+<img src="https://avatars.githubusercontent.com/u/68402624?v=4" width="200" style="border-radius: 50%; border: 4px solid #58A6FF; padding: 4px;" alt="Ahmed Mohamed" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Location-United%20States-blue?style=flat-square&logo=google-maps" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Chess.com-2150-769656?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend%20%7C%20AI%2FML-9cf?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,next,django,postgres,docker,aws&perline=4" alt="Core stack icons" />
+
+</td>
+<td width="58%" valign="top">
+
+```bash
+ahmed@dev ~ ▶ whoami
+→ Ahmed Mohamed | builder, problem-solver, lifelong learner
+
+ahmed@dev ~ ▶ cat focus.txt
+→ ChessMate: AI chess analysis with Stockfish
+→ CampusFound, ReturnRider, QuadPulse: real products in motion
+→ ML pipelines, backend systems, clean UX
+
+ahmed@dev ~ ▶ ./status.sh
+→ Studies : CS + Math + Data Science
+→ Chess   : 2150 on Chess.com
+→ Cube    : sub-30s solve
+→ Status  : Open to work (SWE / backend / data / intern)
+
+ahmed@dev ~ ▶ echo $VIBE
+→ "Ship fast. Learn faster. Make things people actually use."
+```
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♟️_Chess-2150-1f2937?style=for-the-badge&labelColor=769656" />
+<img src="https://img.shields.io/badge/🎓_Studies-CS_%7C_Math_%7C_Data_Science-1f2937?style=for-the-badge&labelColor=6366f1" />
+<img src="https://img.shields.io/badge/🚀_Status-Open_to_Work-1f2937?style=for-the-badge&labelColor=22c55e" />
+<img src="https://img.shields.io/badge/📍_Location-USA-1f2937?style=for-the-badge&labelColor=3b82f6" />
+
+<br /><br />
+
+<a href="mailto:ahmedmohamed200354@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ahmedmohamed200354@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ahmedmohamedh">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=80&section=footer&animation=twinkling" alt="Footer wave" />
 
 ---
 
 ## About Me
 
-- Studying **Computer Science**, **Mathematics**, and **Data Science**
-- Software engineer focused on **Python**, **TypeScript**, and production-ready systems
-- Currently building **ChessMate**, **CampusFound**, **ReturnRider**, and **QuadPulse**
-- Strong interest in **machine learning**, **system design**, **cloud architecture**, and **chess engines**
-- Outside of code: **chess (2150)**, **Rubik's cube (sub-30s)**, and side projects
+I am a **Computer Science**, **Mathematics**, and **Data Science** student who loves turning ideas into software: chess engines, campus platforms, mobile apps, and ML-powered tools. I care about readable code, strong systems thinking, and products that feel good to use.
 
 ```python
-class Developer:
-    name = "Ahmed Mohamed"
+class Ahmed:
     studies = ["Computer Science", "Mathematics", "Data Science"]
-    builds_with = ["Python", "TypeScript", "React", "Django", "PostgreSQL"]
-    looking_for = ["SWE", "Backend", "Full Stack", "Data", "New Grad", "Intern"]
+    stack = ["Python", "TypeScript", "React", "Django", "PostgreSQL", "AWS"]
+    building = ["ChessMate", "CampusFound", "ReturnRider", "QuadPulse"]
+    fun_facts = {"chess": 2150, "rubiks_cube": "<30s", "vibe": "build + learn + compete"}
 
-    def greet(self):
-        return "Glad you stopped by. Let's connect."
+    def open_to(self):
+        return ["SWE", "Backend", "Full Stack", "Data", "New Grad", "Intern"]
 ```
 
 ---
@@ -187,7 +227,6 @@ Open-source Python framework for 8-bit and 16-bit style games with ECS architect
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-_Waka stats refresh automatically after the GitHub Action runs. Add a `GH_TOKEN` secret with `gist` scope to enable updates._
 <!--END_SECTION:waka-->
 
 ---
