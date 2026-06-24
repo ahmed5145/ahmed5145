@@ -15,15 +15,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate stats cards
+      - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1
         with:
+          card: stats
+          options: username=ahmed5145&show_icons=true&theme=default&hide_rank=true&count_private=true&include_all_commits=true
+          path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: ahmed5145
-          output_dir: assets
-          cards: stats,top-langs
-          stats_options: "show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-          top_langs_options: "layout=compact&theme=tokyonight&langs_count=8&hide=html,css"
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=ahmed5145&layout=compact&theme=default&langs_count=6&hide=html,css
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit stats assets
         run: |
