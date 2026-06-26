@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=ahmed5145&show_icons=true&theme=transparent&hide_rank=true&hide=commits,contributed&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff
+          options: username=ahmed5145&show_icons=true&theme=transparent&hide_rank=true&hide=commits,contribs&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff
           path: assets/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
