@@ -73,6 +73,22 @@ I build full stack web applications, backend systems, and data-driven products. 
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 June 2026 - To: 26 June 2026
+
+Total Time: 11 hrs 23 mins
+
+JavaScript   7 hrs 6 mins          ██████████████▒░░░░░░░░░░   56.95 %
+Python       2 hrs 41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+Other        1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+CSS          44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+JSON         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Bash         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
