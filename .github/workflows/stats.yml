@@ -8,12 +8,21 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ github.token }}
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1
@@ -21,7 +30,7 @@ jobs:
           card: stats
           options: username=ahmed5145&show_icons=true&theme=default&hide_rank=true&count_private=true&include_all_commits=true
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1
@@ -29,12 +38,23 @@ jobs:
           card: top-langs
           options: username=ahmed5145&layout=compact&theme=default&langs_count=6&hide=html,css
           path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Commit stats assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg assets/top-langs.svg
-          git diff --staged --quiet || git commit -m "chore: update profile stats"
-          git push
+          if git diff --staged --quiet; then
+            echo "No stats changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update profile stats"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            git push origin main && exit 0
+            echo "Push failed, retrying in 10s (attempt ${attempt}/5)..."
+            sleep 10
+          done
+          echo "Failed to push stats assets after 5 attempts."
+          exit 1
