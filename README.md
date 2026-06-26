@@ -1,19 +1,19 @@
 # Ahmed Mohamed
 
-**Software Engineer** | CS, Mathematics & Data Science | United States | Open to opportunities
+**Software Engineer** | B.S. Computer Science (May 2027), Luther College | Minors: Mathematics & Data Science
 
-I build full stack web applications, backend systems, and data-driven products. Currently focused on shipping production software across web, mobile, and AI-assisted tooling.
+Full stack and backend engineer with intern and co-op experience in healthcare, enterprise software, and production systems. Open to SWE, backend, and new grad roles.
 
-[Email](mailto:ahmedmohamed200354@gmail.com) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/)
+[Email](mailto:hussah01@luther.edu) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/)
 
 ---
 
 ## About
 
-- Studying **Computer Science**, **Mathematics**, and **Data Science**
-- Experience across **Python**, **TypeScript**, **React**, **Django**, **PostgreSQL**, and **AWS**
-- Interested in software engineering, backend development, data science, and applied machine learning
-- Competitive chess player (**2150** on Chess.com); strong analytical and problem-solving background
+- **Luther College** — B.S. in Computer Science, minors in Mathematics and Data Science (expected **May 2027**)
+- Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
+- Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
+- Competitive chess player (**2150** on Chess.com); CS & Math TA, Chess Club President
 
 ---
 
@@ -21,24 +21,22 @@ I build full stack web applications, backend systems, and data-driven products. 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**ChessMate**](https://github.com/ahmed5145/ChessMate) | Chess analysis platform that imports games from Chess.com and Lichess and generates Stockfish-backed insights | React, Django, Python |
+| [**ChessMate**](https://github.com/ahmed5145/ChessMate) | Production chess coaching platform with Stockfish analysis, async job pipelines, and personalized training reports | Python, Django, React, PostgreSQL, Redis, AWS |
+| [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Published Python game framework on PyPI with ECS architecture, CI, docs, and examples | Python, Pygame, Poetry, pytest |
 | [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found platform with photo uploads and searchable listings ([demo](https://campus-found-kappa.vercel.app)) | Next.js, TypeScript, Supabase |
 | [**ReturnRider**](https://github.com/ahmed5145/ReturnRider) | Return and refund tracking system with API, mobile app, email worker, and infrastructure automation | NestJS, Expo, PostgreSQL, Go |
-| [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Open-source Python game framework with ECS architecture, documentation, CI, and PyPI releases | Python, Pygame, pytest |
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, TypeScript, JavaScript, Java, SQL
+**Languages:** Python, TypeScript, JavaScript, C#, Go, Java, SQL
 
-**Frontend:** React, Next.js, HTML/CSS
+**Frameworks:** React, Django, Node.js, .NET, FastAPI
 
-**Backend:** Django, FastAPI, Node.js, REST APIs
+**Data & ML:** pandas, scikit-learn, Semantic Kernel, PyTorch
 
-**Data & ML:** NumPy, pandas, scikit-learn, PyTorch, TensorFlow
-
-**Databases & Infra:** PostgreSQL, MongoDB, Redis, Docker, AWS, Git
+**Databases & Infra:** PostgreSQL, MongoDB, Redis, Docker, AWS, Terraform, Git
 
 ---
 
@@ -46,12 +44,12 @@ I build full stack web applications, backend systems, and data-driven products. 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=ahmed5145&show_icons=true&theme=default&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img width="48%" src="./assets/stats.svg" alt="GitHub stats" />
 <img width="48%" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=default" alt="GitHub streak" />
 
 <br />
 
-<img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmed5145&layout=compact&theme=default&langs_count=6&hide=html,css" alt="Top languages" />
+<img width="70%" src="./assets/top-langs.svg" alt="Top languages" />
 
 <br />
 
@@ -79,6 +77,7 @@ I build full stack web applications, backend systems, and data-driven products. 
 
 ## Contact
 
-**Email:** ahmedmohamed200354@gmail.com  
+**Email:** [hussah01@luther.edu](mailto:hussah01@luther.edu)  
+**Phone:** +1 (585) 269-1516  
 **LinkedIn:** [linkedin.com/in/ahmedmohamedh](https://linkedin.com/in/ahmedmohamedh)  
 **Portfolio:** [portfolio-ahmed-mohameds-projects-0d275c62.vercel.app](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/)

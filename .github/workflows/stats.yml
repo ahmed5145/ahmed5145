@@ -30,7 +30,7 @@ jobs:
           card: stats
           options: username=ahmed5145&show_icons=true&theme=default&hide_rank=true&count_private=true&include_all_commits=true
           path: assets/stats.svg
-          token: ${{ github.token }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1
@@ -38,7 +38,7 @@ jobs:
           card: top-langs
           options: username=ahmed5145&layout=compact&theme=default&langs_count=6&hide=html,css
           path: assets/top-langs.svg
-          token: ${{ github.token }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit stats assets
         run: |
