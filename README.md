@@ -10,10 +10,9 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 ## About
 
-- **Luther College**, B.S. in Computer Science, minors in Mathematics and Data Science (expected **May 2027**)
 - Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
 - Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
-- Competitive chess player (**2150** on Chess.com); CS & Math TA, Chess Club President
+- Competitive chess player (**2150** on [Chess.com](https://www.chess.com/member/AhmeedM1), [Lichess](https://lichess.org/@/ahmed56781)); CS & Math TA, Chess Club President
 
 ---
 
@@ -21,9 +20,9 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**ChessMate**](https://chess-mate.online) | Production chess coaching platform with Stockfish analysis, async job pipelines, and personalized training reports ([code](https://github.com/ahmed5145/ChessMate)) | Python, Django, React, PostgreSQL, Redis, AWS |
-| [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Published Python game framework on PyPI with ECS architecture, CI, docs, and examples | Python, Pygame, Poetry, pytest |
-| [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found platform with photo uploads and searchable listings ([demo](https://campus-found-kappa.vercel.app)) | Next.js, TypeScript, Supabase |
+| [**ChessMate**](https://github.com/ahmed5145/ChessMate) | Production chess coaching platform with Stockfish analysis, async job pipelines, and personalized training reports ([Live](https://chess-mate.online)) | Python, Django, React, PostgreSQL, Redis, AWS |
+| [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Published Python game framework on PyPI with ECS architecture, CI, docs, and examples ([PyPI](https://pypi.org/project/retro-game-engine/)) | Python, Pygame, Poetry, pytest |
+| [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found platform with photo uploads and searchable listings ([Demo](https://campus-found-kappa.vercel.app)) | Next.js, TypeScript, Supabase |
 | [**ReturnRider**](https://github.com/ahmed5145/ReturnRider) | Return and refund tracking system with API, mobile app, email worker, and infrastructure automation | NestJS, Expo, PostgreSQL, Go |
 
 ---
@@ -70,6 +69,8 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 ---
 
+## Coding Activity
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -91,8 +92,4 @@ Text         4 mins                ░░░░░░░░░░░░░░░
 
 ---
 
-## Contact
-
-**Email:** [hussah01@luther.edu](mailto:hussah01@luther.edu)  
-**LinkedIn:** [linkedin.com/in/ahmedmohamedh](https://linkedin.com/in/ahmedmohamedh)  
-**Portfolio:** [portfolio-ahmed-mohameds-projects-0d275c62.vercel.app](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/)
+**Email:** [hussah01@luther.edu](mailto:hussah01@luther.edu)
