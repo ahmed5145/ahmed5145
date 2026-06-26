@@ -10,7 +10,7 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 ## About
 
-- **Luther College** — B.S. in Computer Science, minors in Mathematics and Data Science (expected **May 2027**)
+- **Luther College**, B.S. in Computer Science, minors in Mathematics and Data Science (expected **May 2027**)
 - Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
 - Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
 - Competitive chess player (**2150** on Chess.com); CS & Math TA, Chess Club President
@@ -44,16 +44,16 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 <div align="center">
 
-<img width="48%" src="./assets/stats.svg" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=default" alt="GitHub streak" />
+<img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
-<br />
+<br /><br />
 
-<img width="70%" src="./assets/top-langs.svg" alt="Top languages" />
+<img height="200" src="./assets/top-langs.svg" alt="Top languages" />
 
-<br />
+<br /><br />
 
-<img src="https://github.com/users/ahmed5145/contributions" alt="GitHub contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed5145&bg_color=0d1117&color=58a6ff&line=FFFFFF&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Activity&height=200" alt="Contribution activity graph" />
 
 </div>
 

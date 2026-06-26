@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=ahmed5145&show_icons=true&theme=default&hide_rank=true&count_private=true&include_all_commits=true
+          options: username=ahmed5145&show_icons=true&theme=github_dark&hide_rank=true&hide=commits&count_private=true
           path: assets/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=ahmed5145&layout=compact&theme=default&langs_count=6&hide=html,css
+          options: username=ahmed5145&layout=compact&theme=github_dark&langs_count=6&hide=html,css,TeX,Cython&card_width=450
           path: assets/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
