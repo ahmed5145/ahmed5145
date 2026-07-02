@@ -74,16 +74,16 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
 Total Time: 7 hrs 3 mins
 
-JavaScript   3 hrs 53 mins         ████████████▓░░░░░░░░░░░░   51.29 %
-Python       1 hr 42 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Markdown     53 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Other        31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-HTML         20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+JavaScript   3 hrs 52 mins         ████████████▓░░░░░░░░░░░░   51.21 %
+Python       1 hr 42 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Markdown     53 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Other        31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+HTML         20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
