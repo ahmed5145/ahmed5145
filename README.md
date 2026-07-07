@@ -75,18 +75,18 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 05 July 2026
+From: 29 June 2026 - To: 06 July 2026
 
-Total Time: 4 hrs 19 mins
+Total Time: 1 hr 46 mins
 
-Python        1 hr 25 mins          ███████░░░░░░░░░░░░░░░░░░   28.46 %
-JavaScript    1 hr 9 mins           █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-Other         40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Markdown      40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-HTML          25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-CSS           15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Image (svg)   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Text          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Python        30 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+Markdown      27 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+Other         25 mins               █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+JavaScript    9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+CSS           7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Image (svg)   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Text          6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+HTML          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
