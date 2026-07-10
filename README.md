@@ -44,7 +44,7 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 <div align="center">
 
 <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=ahmed5145&theme=github-dark&hide_border=true" alt="GitHub streak" />
+<img height="165" src="./assets/streak.svg" alt="GitHub streak" />
 
 <br /><br />
 
