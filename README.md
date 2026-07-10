@@ -4,7 +4,7 @@
 
 Full stack and backend engineer with intern and co-op experience in healthcare, enterprise software, and production systems. Open to SWE, backend, and new grad roles.
 
-[Email](mailto:hussah01@luther.edu) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://portfolio-ahmed-mohameds-projects-0d275c62.vercel.app/)
+[Email](mailto:hussah01@luther.edu) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://portfolio-sigma-fawn-97.vercel.app/)
 
 ---
 
@@ -12,6 +12,7 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 - Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
 - Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
+- Open-source: merged contributor to [**psf/black**](https://github.com/psf/black/pull/4611) (the Python code formatter) — PyPI Trusted Publishing release workflow
 - Competitive chess player (**2150** on [Chess.com](https://www.chess.com/member/AhmeedM1), [Lichess](https://lichess.org/@/ahmed56781)); CS & Math TA, Chess Club President
 
 ---
@@ -74,18 +75,18 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Total Time: 11 hrs 23 mins
+Total Time: 3 hrs
 
-JavaScript   7 hrs 6 mins          ██████████████▒░░░░░░░░░░   56.95 %
-Python       2 hrs 41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-Other        1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-CSS          44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JSON         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Text         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Markdown      52 mins               ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+JavaScript    45 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Python        38 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Other         35 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+HTML          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Text          7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+CSS           7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Image (svg)   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
