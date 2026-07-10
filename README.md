@@ -12,8 +12,8 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 - Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
 - Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
-- Open-source: merged contributor to [**psf/black**](https://github.com/psf/black/pull/4611) (the Python code formatter) — PyPI Trusted Publishing release workflow
-- Competitive chess player (**2150** on [Chess.com](https://www.chess.com/member/AhmeedM1), [Lichess](https://lichess.org/@/ahmed56781)); CS & Math TA, Chess Club President
+- Open-source: merged contributor to [**psf/black**](https://github.com/psf/black/pull/4611) (the Python code formatter): PyPI Trusted Publishing release workflow
+- Competitive chess player (**2150** on [Chess.com](https://www.chess.com/member/AhmeedM1), [Lichess](https://lichess.org/@/ahmed56781)); CS & Math TA
 
 ---
 
