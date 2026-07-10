@@ -70,27 +70,4 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 ---
 
-## Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 July 2026 - To: 09 July 2026
-
-Total Time: 3 hrs
-
-Markdown      52 mins               ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-JavaScript    45 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
-Python        38 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Other         35 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-HTML          8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Text          7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-CSS           7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Image (svg)   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 **Email:** [hussah01@luther.edu](mailto:hussah01@luther.edu)
