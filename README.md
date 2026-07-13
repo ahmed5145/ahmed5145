@@ -1,6 +1,6 @@
 # Ahmed Mohamed
 
-**Software Engineer** | B.S. Computer Science (May 2027), Luther College | Minors: Mathematics & Data Science
+**Software Engineer** | B.A. Computer Science (May 2027), Luther College | Minors: Mathematics & Data Science
 
 Full stack and backend engineer with intern and co-op experience in healthcare, enterprise software, and production systems. Open to SWE, backend, and new grad roles.
 
