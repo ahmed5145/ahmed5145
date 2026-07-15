@@ -4,7 +4,7 @@
 
 Full stack and backend engineer with intern and co-op experience in healthcare, enterprise software, and production systems. Open to SWE, backend, and new grad roles.
 
-[Email](mailto:hussah01@luther.edu) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://ahmedmohamedh.vercel.app/)
+[Email](mailto:ahmedmohamed200354@gmail.com) · [School](mailto:hussah01@luther.edu) · [LinkedIn](https://linkedin.com/in/ahmedmohamedh) · [Portfolio](https://ahmedmohamedh.vercel.app/)
 
 ---
 
@@ -70,4 +70,4 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 ---
 
-**Email:** [hussah01@luther.edu](mailto:hussah01@luther.edu)
+**Email:** [ahmedmohamed200354@gmail.com](mailto:ahmedmohamed200354@gmail.com) · [hussah01@luther.edu](mailto:hussah01@luther.edu)
