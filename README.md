@@ -12,7 +12,7 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 - Recent experience at **Mayo Clinic**, **Calero**, and **AImpulse** (full stack, APIs, caching, LLM QA, and production tooling)
 - Build and ship products end to end: **ChessMate**, **CampusFound**, **ReturnRider**, and **retro_game_engine**
-- Open-source: merged PRs into [**django/django**](https://github.com/django/django/pull/21629) (the web framework behind Instagram): fixed a 9-year-old parallel test-runner bug by pooling database clones so respawned workers reuse them. Also [**psf/black**](https://github.com/psf/black/pull/4611) (the Python code formatter): PyPI Trusted Publishing release workflow
+- Open-source: merged PRs into [**django/django**](https://github.com/django/django/pull/21629) (the web framework behind Instagram): fixed a 9-year-old parallel test-runner bug by pooling database clones so respawned workers reuse them. Also merged into [**redis/redis-py**](https://github.com/redis/redis-py/pull/4206) (EVALSHA in cluster pipelines), [**matplotlib/matplotlib**](https://github.com/matplotlib/matplotlib/pull/32147) (mathtext parser fix, backported to 3.11), [**open-telemetry/opentelemetry-python-contrib**](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4828), and [**psf/black**](https://github.com/psf/black/pull/4611) (PyPI Trusted Publishing)
 - Competitive chess player (**2150** on [Chess.com](https://www.chess.com/member/AhmeedM1), [Lichess](https://lichess.org/@/ahmed56781)); CS & Math TA
 
 ---
