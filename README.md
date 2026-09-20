@@ -21,9 +21,10 @@ Full stack and backend engineer with intern and co-op experience in healthcare, 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**ChessMate**](https://github.com/ahmed5145/ChessMate) | Production chess coaching platform with Stockfish analysis, async job pipelines, and personalized training reports ([Live](https://chess-mate.online)) | Python, Django, React, PostgreSQL, Redis, AWS |
+| [**ChessMate**](https://github.com/ahmed5145/ChessMate) | Production chess coaching platform with Stockfish analysis and async job pipelines; 80+ users, 200+ coaching reports across 1,000+ games ([Live](https://chess-mate.online)) | Python, Django, React, PostgreSQL, Redis, AWS |
+| [**Fencekit**](https://github.com/ahmed5145/fencekit) | Published Redis coordination library on PyPI: fencing-token locks and idempotency guards that stop duplicate Celery runs; extracted from ChessMate ([PyPI](https://pypi.org/project/fencekit/)) | Python, Redis, Celery, Lua, Hypothesis |
 | [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Published Python game framework on PyPI with ECS architecture, CI, docs, and examples ([PyPI](https://pypi.org/project/retro-game-engine/)) | Python, Pygame, Poetry, pytest |
-| [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found platform with photo uploads and searchable listings ([Demo](https://campus-found-kappa.vercel.app)) | Next.js, TypeScript, Supabase |
+| [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found platform with photo uploads and searchable listings ([Demo](https://usecampusfound.vercel.app)) | Next.js, TypeScript, Supabase |
 | [**ReturnRider**](https://github.com/ahmed5145/ReturnRider) | Return and refund tracking system with API, mobile app, email worker, and infrastructure automation | NestJS, Expo, PostgreSQL, Go |
 
 ---
