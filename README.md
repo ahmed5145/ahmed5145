@@ -19,12 +19,12 @@ Full-stack and backend engineer. I built ChessMate, a chess coaching platform wi
 
 ## Open Source
 
-9 merged PRs across 5 projects.
+10 merged PRs across 5 projects.
 
 | Project | PRs | What I fixed |
 | --- | --- | --- |
 | [django/django](https://github.com/django/django) | [#21629](https://github.com/django/django/pull/21629) | 9-year-old crash in the parallel test runner. Database clones are now pooled so respawned workers reuse them. |
-| [redis/redis-py](https://github.com/redis/redis-py) | [#4206](https://github.com/redis/redis-py/pull/4206), [#4254](https://github.com/redis/redis-py/pull/4254) | EVALSHA routing in cluster pipelines, and an async connection fix. |
+| [redis/redis-py](https://github.com/redis/redis-py) | [#4206](https://github.com/redis/redis-py/pull/4206), [#4254](https://github.com/redis/redis-py/pull/4254), [#4545](https://github.com/redis/redis-py/pull/4545) | EVALSHA routing in cluster pipelines and an async connection fix. TLS connections with the same settings now share one SSL context, which cut sync memory per connection from about 755 KB to 41 KB. |
 | [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) | [#4827](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4827), [#4828](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4828), [#5063](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5063) | Celery spans reporting the wrong worker, Redis spans dropping `db=None`, and SQLAlchemy pool usage moved to the current `db.client.connection.count` metric. |
 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | [#32147](https://github.com/matplotlib/matplotlib/pull/32147), [#32380](https://github.com/matplotlib/matplotlib/pull/32380) | Nested-brace parsing in mathtext (backported to 3.11), and `figimage` images vanishing when re-added. |
 | [psf/black](https://github.com/psf/black) | [#4611](https://github.com/psf/black/pull/4611) | Release workflow moved to PyPI Trusted Publishing. |
