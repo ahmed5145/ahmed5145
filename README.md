@@ -39,6 +39,7 @@ Full-stack and backend engineer. I built ChessMate, a chess coaching platform wi
 | [**Fencekit**](https://github.com/ahmed5145/fencekit) | Redis coordination library on PyPI: fencing-token locks and idempotency guards that stop duplicate Celery runs. Extracted from ChessMate ([PyPI](https://pypi.org/project/fencekit/)) | Python, Redis, Celery, Lua, Hypothesis |
 | [**ReturnRider**](https://github.com/ahmed5145/ReturnRider) | Return and refund tracker with a NestJS API, Expo mobile app, and Go email worker. AWS staging (VPC, RDS Postgres, ElastiCache Redis, S3) provisioned with Terraform | NestJS, Expo, PostgreSQL, Go, Terraform |
 | [**CampusFound**](https://github.com/ahmed5145/CampusFound) | Mobile-first campus lost-and-found with photo uploads and searchable listings ([Demo](https://usecampusfound.vercel.app)) | Next.js, TypeScript, Supabase |
+| [**Box Optimizer**](https://hacknorse.vercel.app) | 1st place at HackNorse 2026, built with a teammate in 24 hours. Picks which shipping box sizes a store should stock from its order history. The Rust optimizer runs as WebAssembly in the browser, so order data never leaves the user's machine ([Live](https://hacknorse.vercel.app)) | Rust, WebAssembly, Next.js, TypeScript |
 | [**retro_game_engine**](https://github.com/ahmed5145/retro_game_engine) | Python game framework on PyPI with an ECS architecture, CI, docs, and examples ([PyPI](https://pypi.org/project/retro-game-engine/)) | Python, Pygame, Poetry, pytest |
 
 ---
